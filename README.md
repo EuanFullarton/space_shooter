@@ -1,3 +1,3 @@
-# space_shooter
+# Space Shooter - mobile game
 
-Extended unity tutorial, controls set up for mobile.
+Extended Unity tutorial, controls set up for mobile.
